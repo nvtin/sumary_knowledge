@@ -1,4 +1,5 @@
 # sumary_knowledge
-This is what I learned, what I read and I want to note for me, for every one who need.
+This is what I learned, what I read and I want to note for me, for everyone who need.
+Hope it's useful for you.
 
 - How to get and remove duplicate customer => https://github.com/nvtin/sumary_knowledge/issues/1
